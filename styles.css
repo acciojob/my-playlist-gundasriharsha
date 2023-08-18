@@ -1,12 +1,25 @@
-*{
-	background-color:rgb(204,204,204);
+/*  your css code here. If applicable */
+body{
+	background-color: rgb(204, 204, 204)
 }
-.heading{
+h1,h2{
 	text-align:center;
 }
-#div1{
-	margin:auto;
-	border:3px solid black;
-	border-radius:10px;
-	background-color:white;
+li{
+	list-style-type:none;
+}
+a{
+	text-decoration-line:none;
+}
+.player1{
+	background-color: rgb(255, 255, 255);
+	padding: 10px;
+	border-radius: 8px;
+	border: 1px solid black;
+}
+.player2{
+	background-color: rgb(255, 255, 255);
+	padding: 10px;
+	border-radius: 8px;
+	border: 1px solid black;
 }
