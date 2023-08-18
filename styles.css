@@ -1,1 +1,12 @@
-/*  your css code here. If applicable */
+*{
+	background-color:rgb(204,204,204);
+}
+.heading{
+	text-align:center;
+}
+#div1{
+	margin:auto;
+	border:3px solid black;
+	border-radius:10px;
+	background-color:white;
+}
