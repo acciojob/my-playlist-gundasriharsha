@@ -11,13 +11,13 @@ li{
 a{
 	text-decoration-line:none;
 }
-.player1{
+.player_one{
 	background-color: rgb(255, 255, 255);
 	padding: 10px;
 	border-radius: 8px;
 	border: 1px solid black;
 }
-.player2{
+.player_two{
 	background-color: rgb(255, 255, 255);
 	padding: 10px;
 	border-radius: 8px;
